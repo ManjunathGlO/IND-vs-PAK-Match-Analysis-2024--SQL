@@ -1,4 +1,4 @@
-# IND vs PAK Match Analysis
+# IND vs PAK Match Analysis.
 
 ![20240609020317_ICC-T20-Ind-vs-Pak-TT-1](https://github.com/ManjunathGlO/IND-vs-PAK-Match-Analysis-2024--SQL/assets/107187360/2e513e92-1aa2-4c14-9d5b-df54c7a8eeec)
 
