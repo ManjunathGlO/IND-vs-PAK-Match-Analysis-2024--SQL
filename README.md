@@ -1,4 +1,5 @@
 # IND vs PAK Match Analysis
+
 ![20240609020317_ICC-T20-Ind-vs-Pak-TT-1](https://github.com/ManjunathGlO/IND-vs-PAK-Match-Analysis-2024--SQL/assets/107187360/2e513e92-1aa2-4c14-9d5b-df54c7a8eeec)
 
 The provided PDF file, titled "IND Vs Pak Analysis (2).pdf," contains a detailed analysis of a cricket match between India (IND) and Pakistan (PAK). The document outlines several key questions related to the match statistics and provides SQL queries to extract relevant data.
