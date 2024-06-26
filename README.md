@@ -121,7 +121,7 @@ Run Rate: 5.70
 
 Player Of The Match:-
 
--Jasprit Bumrah
+- Jasprit Bumrah
 
 
 ![4a29qmcg_jasprit-bumrah-twitter_625x300_10_June_24](https://github.com/ManjunathGlO/IND-vs-PAK-Match-Analysis-2024--SQL/assets/107187360/43f67bc5-9fc3-4ccd-b98b-1af80ee81695)
